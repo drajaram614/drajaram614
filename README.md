@@ -58,6 +58,7 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 - **Programming** | **IAM (Identity & Access Management)** | **Project Management**
 
 ---
+- [**Bandit Capture the Flag**](https://github.com/drajaram614/OverTheWire-CTFs): I have completed Bandit CTF, where I honed my command-line proficiency, automation skills, and understanding of networking, privilege escalation, and file security—key areas in penetration testing, incident response, and system hardening.
 
 Let's connect and collaborate on new ideas and challenges! 
 [LinkedIn](https://www.linkedin.com/in/daniel-rajaram)
