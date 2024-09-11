@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm **Daniel Rajaram**, a tech enthusiast and dedicated graduate student pursuing a Master's in Cybersecurity at New York University. With a solid foundation in IT and cybersecurity, my journey began at the New Jersey Institute of Technology, where I graduated with honors in IT and CS. I’m deeply committed to continuous learning and making impactful contributions in the ever-evolving world of cybersecurity.
 
+Take a look at [**My Personal Website**](https://personal-website-6cz.pages.dev/), to see more on my professional journey, presentations, projects, certs, skills and more!
+
 ## 🌐 Professional Experience 🌐
 
 ### 🔍 Legend Biotech - Data Governance Intern
@@ -66,3 +68,4 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 
 Let's connect and collaborate on new ideas and challenges! 
 [LinkedIn](https://www.linkedin.com/in/daniel-rajaram)
+[**My Personal Website**](https://personal-website-6cz.pages.dev/)
