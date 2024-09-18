@@ -67,5 +67,6 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 - [**Python Project**](https://github.com/drajaram614/Python-Project): This Python slot machine project provides a simulation of a classic slot game, allowing users to deposit money, place bets on multiple lines, and spin the machine to win based on random outcomes. Through this project, I gained valuable skills in Python programming, including the creation and management of functions, handling user input, and implementing game logic. I learned to use data structures such as dictionaries and lists to manage game symbols and payouts, as well as control flow mechanisms like loops and conditionals to guide the game’s operation. This project enhanced my understanding of modular code design and interactive programming, providing a practical application of these concepts in a fun and engaging way.
 
 Let's connect and collaborate on new ideas and challenges! 
-[LinkedIn](https://www.linkedin.com/in/daniel-rajaram)
+[**LinkedIn**](https://www.linkedin.com/in/daniel-rajaram)
+
 [**My Personal Website**](https://personal-website-6cz.pages.dev/)
