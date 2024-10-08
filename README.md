@@ -60,11 +60,13 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 - **Programming** | **IAM (Identity & Access Management)** | **Project Management**
 
 ---
+# Projects
+
 - [**Bandit Capture the Flag**](https://github.com/drajaram614/OverTheWire-CTFs): I have completed Bandit CTF, where I honed my command-line proficiency, automation skills, and understanding of networking, privilege escalation, and file security—key areas in penetration testing, incident response, and system hardening.
 
 - [**Systems Integration Project**](https://github.com/drajaram614/Systems-Integration-Group-Project?tab=readme-ov-file): During my final year at the New Jersey Institute of Technology, I also worked on a Systems Integration Project called PokéHub. The project aimed to provide Pokémon enthusiasts with a team-building application that enhances their gaming experience. With this application, users can create and manage their optimized teams by utilizing the vast collection of Pokémon and their stats, with the option of sharing them with other users. The project involved a robust system integration architecture consisting of a front-end instance, messaging instance, database instance, and back-end instance. I played a key role in the development of the front-end instance, ensuring an intuitive and responsive user interface. I also contributed to the integration of the messaging and back-end instances, allowing for seamless team creation and management.
 
-# Python Projects
+### Python Projects
 
 1. **Python Slot Machine Project**
 - [**Python-SlotMachine-Project**](https://github.com/drajaram614/Python-SlotMachine-Project)
