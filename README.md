@@ -78,7 +78,12 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 
 3. **Python Port Scanner**
 - [**Python Port Scanner**](https://github.com/drajaram614/Python-Port-Scanner)
-   A multithreaded port scanner that identifies open ports on a target machine, featuring stealth mode to avoid detection. This project builds knowledge in network security, cybersecurity fundamentals, and advanced Python skills like socket programming and multithreading.  
+   A multithreaded port scanner that identifies open ports on a target machine, featuring stealth mode to avoid detection. This project builds knowledge in network security, cybersecurity fundamentals, and advanced Python skills like socket programming and multithreading.
+
+### Networking Security Labs
+
+- [**Network Security Labs**](https://github.com/drajaram614/Network-Security-Labs)
+   Network Security Labs: This repository features a series of hands-on Network Security labs utilizing Virtual Machines and Wireshark, covering essential concepts such as TCP attacks (e.g., SYN flooding, TCP session hijacking), packet sniffing and spoofing, and firewall configurations with iptables. The labs also delve into cryptography, examining various attacks like Cipher-text Only and Chosen-Plaintext, and implementing encryption techniques including the Caesar Cipher, Vigenère Cipher, and RSA key generation. Additionally, a TLS lab allows for the analysis of SSL/TLS traffic and website security, emphasizing key concepts like HMAC, digital signatures, and certificate management.
 
 Let's connect and collaborate on new ideas and challenges! 
 [**LinkedIn**](https://www.linkedin.com/in/daniel-rajaram)
