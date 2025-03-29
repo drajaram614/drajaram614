@@ -7,36 +7,54 @@ Take a look at [**My Personal Website**](https://personal-website-6cz.pages.dev/
 ## 🌐 Professional Experience 🌐
 
 ### 🔍 Legend Biotech - Data Governance Intern
-- Spearheaded a transformative data mapping automation project.
-- Enhanced data cataloging and classification capabilities.
-- Collaborated with global teams, utilizing **One Trust** and **Excel**.
-- Emphasized cybersecurity's critical role in the digital landscape.
+- Spearheaded a transformative **data mapping automation** project, ensuring compliance with cybersecurity frameworks.
+- Enhanced **data cataloging** and **classification** capabilities to improve data protection and privacy.
+- Collaborated with global teams, utilizing **OneTrust** and **Excel** to streamline governance processes.
+- Emphasized the critical role of **cybersecurity** in data governance, aligning practices with risk management strategies.
+
 
 ### 💼 AustinCSI - Management Consulting Intern
-- Crafted and presented a strategy for a new client, driving innovation.
-- Gained proficiency in **Microsoft Power Apps**, **Power Automate**, **SharePoint**, and **Forms** for process automation.
-- Developed strong leadership, analytical acumen, and collaboration skills in a diverse professional environment.
+- Crafted and presented a strategy for a new client, focusing on **IT solutions** that drive innovation.
+- Gained proficiency in **Microsoft Power Apps**, **Power Automate**, **SharePoint**, and **Forms** to automate IT processes.
+- Developed strong leadership, analytical, and collaboration skills in a dynamic, tech-driven environment.
 
 ## 🎓 Education 🎓
 
-**Master's in Cybersecurity** - New York University  
-Actively staying at the forefront of industry advancements, pursuing additional certifications to align with the evolving cybersecurity landscape.
+**Master's in Cybersecurity** - New York University, Tandon School of Engineering (May 2025)  
+Currently in my last semester with a **GPA of 3.8**, specializing in **NSA Defense**.  
+Courses: Network Security, Database Systems, Penetration Testing and Vulnerability Analysis, Cloud Security, Cryptography.  
+Actively staying at the forefront of industry advancements and pursuing additional certifications to align with the evolving cybersecurity landscape.
 
-**Bachelor's in IT and CS** - New Jersey Institute of Technology  
-Graduated with honors, laying a strong academic foundation in technology.
+**Bachelor's in Information Technology, Minor in Computer Science** - New Jersey Institute of Technology, Ying Wu College of Computing (May 2023)  
+Graduated with **Dean’s List Honors**, building a strong foundation in **IT and computing**.  
+Courses: Computer Systems Security, Operating Systems, Professional Development in Computing, Systems Integration.  
 
 ## 📚 Certifications 📚
 
-### CompTIA Security+
-Officially certified with **CompTIA Security+**, demonstrating expertise in:
-- Threat analysis
-- Incident response
-- Identity management
-- Risk management
-- Secure network architectures, cryptography, and compliance with security regulations.
+### CompTIA Security+  
+Officially certified with **CompTIA Security+**, demonstrating expertise in:  
+- Threat analysis  
+- Incident response  
+- Identity management  
+- Risk management  
+- Secure network architectures, cryptography, and compliance with security regulations.  
 
-### Google Cybersecurity Certification
-Certified by **Google** in cybersecurity, showcasing commitment to continuous learning and staying ahead in the rapidly evolving cybersecurity field.
+### CompTIA Network+  
+Certified in **CompTIA Network+**, validating proficiency in:  
+- Network security and troubleshooting  
+- Infrastructure and operations  
+- Routing, switching, and wireless technologies  
+- Network protocols and performance optimization  
+
+### Splunk Knowledge Manager & Search Expert  
+Earned **Splunk Knowledge Manager** and **Splunk Search Expert** badges, demonstrating skills in:  
+- Data ingestion and indexing  
+- Advanced search queries and report generation  
+- Security log analysis and event correlation  
+- Splunk knowledge objects and dashboard creation  
+
+### Google Cybersecurity Certification  
+Certified by **Google** in cybersecurity, showcasing commitment to continuous learning and staying ahead in the rapidly evolving cybersecurity field.  
 
 ## 🤝 Passion and Values 🤝
 I am driven by an unwavering passion for technology and believe cybersecurity plays a paramount role in safeguarding digital landscapes. My core values include:
@@ -56,7 +74,7 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 ### 📌 Skills & Technologies
 - **Problem Solving** | **Analytical Thinking** | **Adaptability**
 - **Incident Response** | **Firewall Management** | **SIEM**
-- **Cloud Security** | **Risk Management** | **Encryption Technologies**
+- **AWS** | **Risk Management** | **Encryption Technologies**
 - **Programming** | **IAM (Identity & Access Management)** | **Project Management**
 
 # Projects
