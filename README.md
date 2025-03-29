@@ -77,6 +77,10 @@ I thrive in teamwork and project environments, continuously aiming to contribute
 - **AWS** | **Risk Management** | **Encryption Technologies**
 - **Programming** | **IAM (Identity & Access Management)** | **Project Management**
 
+## Splunk
+
+- [**Learning Splunk**](https://github.com/drajaram614/SPLUNK): **Setting up** SPLUNK on local instance. Developing understanding in **log analysis**, **search processing**, **dashboard creation**, and **data visualization**. Gaining hands-on experience with **field extractions, alerts, reports, and SPL (Search Processing Language)** to enhance **security monitoring** and **incident investigation**.  
+
 # Projects
 
 - [**Bandit Capture the Flag**](https://github.com/drajaram614/OverTheWire-CTFs): I have completed **Bandit CTF**, where I honed my **command-line proficiency**, **automation skills**, and understanding of **networking**, **privilege escalation**, and **file security**—key areas in **penetration testing**, **incident response**, and **system hardening**.
