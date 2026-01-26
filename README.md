@@ -46,12 +46,15 @@ Certified in **CompTIA Network+**, validating proficiency in:
 - Routing, switching, and wireless technologies  
 - Network protocols and performance optimization  
 
-### Splunk Knowledge Manager & Search Expert  
-Earned **Splunk Knowledge Manager** and **Splunk Search Expert** badges, demonstrating skills in:  
-- Data ingestion and indexing  
-- Advanced search queries and report generation  
-- Security log analysis and event correlation  
-- Splunk knowledge objects and dashboard creation  
+### **Splunk Power User Certification**
+
+* Earned the **Splunk Power User certification**, demonstrating advanced proficiency in **SIEM fundamentals**, **log analysis**, and transforming raw machine data into **actionable insights** for security, compliance, and operational use cases.
+
+* Developed strong skills in **SPL (Search Processing Language)**, including filtering, aggregations, statistical functions, time-based analysis, and building **dashboards, alerts, and reports** used in **cybersecurity monitoring**, **fraud detection**, and **risk analysis**.
+
+* Applied Splunk for **security event correlation**, **anomaly detection**, and **trend analysis**, supporting use cases relevant to **SOC operations**, **incident response**, **threat hunting**, and **data-driven decision making** for technical and financial analysts.
+
+* Gained hands-on experience with an **industry-leading platform** widely used by major enterprises and financial institutions for **security monitoring, compliance, and observability**, reinforcing Splunk’s role as a **critical tool for cybersecurity analysts and data-focused roles**.
 
 ### Google Cybersecurity Certification  
 Certified by **Google** in cybersecurity, showcasing commitment to continuous learning and staying ahead in the rapidly evolving cybersecurity field.  
